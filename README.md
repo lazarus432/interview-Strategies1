@@ -26,7 +26,8 @@ A third attack that a web application may face is cross-site scripting. This is 
 
 ## 5. He is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
-'''from flask import Flask
+"""
+from flask import Flask
 app = Flask(__name__)
 
 import json
@@ -38,7 +39,8 @@ def hello_world():
 
 if __name__ == '__main__':
  app.debug = True
- app.run()'''
+ app.run()
+ """
 
 **See _q5.py_ for the answer and a brief explanation to this question.**
 
