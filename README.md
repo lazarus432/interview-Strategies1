@@ -24,7 +24,7 @@ A second attack that a web application may face is cross-site request forgery.  
 
 A third attack that a web application may face is cross-site scripting. This is the most prevalent web application security flaw. An attacker can execute scripts in a victim’s internet browser to hijack user sessions, deface a website, or insert hostile content. A proven way to prevent this sort of attack is to properly escape all untrusted data based on the HTML context that the data will be placed into. Sanitation libraries like OWASP AntiSamy are also good tools to prevent XSS. 
 
-## 5. He is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
+## 5. Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
 ```
 from flask import Flask
